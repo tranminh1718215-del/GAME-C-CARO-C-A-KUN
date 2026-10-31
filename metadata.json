@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Caro 5x5 CUA TRAN MINH",
+  "description": "Trò chơi cờ Caro 5x5 với chế độ đấu AI thông minh, đấu 2 người, tùy chọn luật 4 hoặc 5 quân, âm thanh sống động và bảng thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
